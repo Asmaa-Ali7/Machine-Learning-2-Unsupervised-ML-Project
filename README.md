@@ -2,10 +2,10 @@
 Credit Card Data Clustering 
 # Credit Card Data Clustering
 
-## Overview 
+## Overview  ✈
 This project aims to cluster credit card data to identify underlying patterns and group similar customer behaviors. By utilizing various clustering algorithms and dimensionality reduction techniques, we can extract insights to improve customer segmentation, detect fraud, and optimize marketing strategies.
 
-## Project Structure
+## Project Structure ▶
 
 - **Data Loading**: Load the dataset into a suitable data structure.
 - **Data Investigation**: Perform exploratory data analysis to understand the structure and distribution of the data.
@@ -19,7 +19,7 @@ This project aims to cluster credit card data to identify underlying patterns an
 - **Visualization of DBSCAN with t-SNE**: Visualize the clusters formed by DBSCAN using t-SNE.
 - **EM Algorithm**: Apply the Expectation-Maximization algorithm to estimate cluster parameters and assign data points probabilistically.
 
-## Requirements
+## Requirements ⚓
 
 This project uses Python 3.8+ and the following libraries:
 - numpy
@@ -35,7 +35,7 @@ To install the necessary libraries, you can use the following command:
 pip install numpy pandas scikit-learn scipy matplotlib seaborn
 ```
 
-## Usage
+## Usage ⛓
 
 1. **Data Loading and Preprocessing**:
    - Load the data using Pandas.
@@ -74,9 +74,8 @@ pip install numpy pandas scikit-learn scipy matplotlib seaborn
    - Plot results using `matplotlib` and `seaborn` to visualize the clustering and dimensionality reduction results.
 
 
-## Conclusion
 
-## Conclusion
+## Conclusion ⚡
 
 The Credit Card Data Clustering project leveraged a variety of clustering techniques and dimensionality reduction methods to analyze and understand customer behaviors from transaction data. Through meticulous data preprocessing and feature transformation, the project ensured a clean and representative dataset was used for analysis. 
 
